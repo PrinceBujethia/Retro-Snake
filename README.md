@@ -4,7 +4,7 @@ A modern, retro-inspired Snake game built with C++ and [raylib](https://www.rayl
 
 ## Download
 
-**[Download Pong Snake for Windows](https://github.com/PrinceBujethia/Retro-Snake/releases/download/Downlaod/Retro-Snake.exe)**
+**[Download Retro Snake for Windows](https://github.com/PrinceBujethia/Retro-Snake/releases/download/Downlaod/Retro-Snake.exe)**
 
 Just click the link above to get the executable and start playing instantly!
 
