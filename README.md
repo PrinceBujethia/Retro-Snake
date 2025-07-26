@@ -2,6 +2,12 @@
 
 A modern, retro-inspired Snake game built with C++ and [raylib](https://www.raylib.com/). This project demonstrates clean code architecture, object-oriented programming, and real-time game development concepts.
 
+## Download
+
+**[Download Pong Retro for Windows](https://github.com/PrinceBujethia/Retro-Snake/releases/download/Downlaod/Retro-Snake.exe)**
+
+Just click the link above to get the executable and start playing instantly!
+
 ## Features
 - **Classic Snake Gameplay**: Eat food, grow longer, and avoid collisions with walls and yourself.
 - **Smooth Animations**: Responsive controls and smooth movement using real-time event handling.
